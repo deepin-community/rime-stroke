@@ -1,0 +1,3 @@
+build/stroke* usr/share/rime-data/build/
+stroke.dict.yaml usr/share/rime-data/
+stroke.schema.yaml usr/share/rime-data/
